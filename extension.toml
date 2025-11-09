@@ -1,0 +1,7 @@
+id = "gruvbox-mod-dark"
+name = "Gruvbox Mod Dark"
+version = "0.0.1"
+schema_version = 1
+authors = ["Kanishk"]
+description = "Gruvbox mod dark theme for Zed Editor."
+repository = "https://github.com/kanishk-8/zed-gruvbox-ish"
